@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>title</key>
+	<string>Andersen, Hans Christian</string>
+	<key>is_book</key>
+	<true/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>items</key>
+			<array>
+				<dict>
+					<key>file</key>
+					<string>The Emperor's New Clothes.html</string>
+					<key>icon</key>
+					<string>small_c_s.png</string>
+					<key>subtitle</key>
+					<string>1700 words</string>
+					<key>title</key>
+					<string>The Emperor's New Clothes</string>
+				</dict>
+				<dict>
+					<key>file</key>
+					<string>The Garden of Paradise.html</string>
+					<key>icon</key>
+					<string>small_c_s.png</string>
+					<key>subtitle</key>
+					<string>5200 words</string>
+					<key>title</key>
+					<string>The Garden of Paradise</string>
+				</dict>
+				<dict>
+					<key>file</key>
+					<string>The Little Mermaid.html</string>
+					<key>icon</key>
+					<string>small_c_s.png</string>
+					<key>subtitle</key>
+					<string>8800 words</string>
+					<key>title</key>
+					<string>The Little Mermaid</string>
+				</dict>
+				<dict>
+					<key>file</key>
+					<string>The Nightingale.html</string>
+					<key>icon</key>
+					<string>small_c_s.png</string>
+					<key>subtitle</key>
+					<string>3600 words</string>
+					<key>title</key>
+					<string>The Nightingale</string>
+				</dict>
+				<dict>
+					<key>file</key>
+					<string>The Real Princess.html</string>
+					<key>icon</key>
+					<string>small_c_s.png</string>
+					<key>subtitle</key>
+					<string>400 words</string>
+					<key>title</key>
+					<string>The Real Princess</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Andersen, Hans Christian</string>
+		</dict>
+	</array>
+	<key>author</key>
+	<string>5 stories</string>
+</dict>
+</plist>

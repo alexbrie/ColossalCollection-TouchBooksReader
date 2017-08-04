@@ -1,0 +1,23 @@
+PODS:
+  - SQLite.swift/standalone (0.11.3):
+    - sqlite3 (>= 3.14.0)
+  - sqlite3 (3.19.3):
+    - sqlite3/common (= 3.19.3)
+  - sqlite3/common (3.19.3)
+  - SVProgressHUD (2.1.2)
+  - UICircularProgressRing (1.6.2)
+
+DEPENDENCIES:
+  - SQLite.swift/standalone (~> 0.11.2)
+  - SVProgressHUD
+  - UICircularProgressRing (~> 1.1)
+
+SPEC CHECKSUMS:
+  SQLite.swift: 99b36c22084427f0abbeb957556ce1528cf10bb3
+  sqlite3: e0f7755dc52e709215e116c801ea0c81fd45c083
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+  UICircularProgressRing: f25e366e0624d87973192b67e572c0712acbae85
+
+PODFILE CHECKSUM: 04735788827ae6fc6b59882de0a7ede7f6fb9b21
+
+COCOAPODS: 1.2.1

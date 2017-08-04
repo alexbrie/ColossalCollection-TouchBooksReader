@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>title</key>
+	<string>Doyle, Arthur Conan</string>
+	<key>is_book</key>
+	<true/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>items</key>
+			<array>
+				<dict>
+					<key>file</key>
+					<string>The Adventure of the Bruce-Partington Plans.html</string>
+					<key>icon</key>
+					<string>small_c_s.png</string>
+					<key>subtitle</key>
+					<string>10700 words</string>
+					<key>title</key>
+					<string>The Adventure of the Bruce-Partington Plans</string>
+				</dict>
+				<dict>
+					<key>file</key>
+					<string>The Adventure of the Cardboard Box.html</string>
+					<key>icon</key>
+					<string>small_c_s.png</string>
+					<key>subtitle</key>
+					<string>8600 words</string>
+					<key>title</key>
+					<string>The Adventure of the Cardboard Box</string>
+				</dict>
+				<dict>
+					<key>file</key>
+					<string>The Adventure of the Devil's Foot.html</string>
+					<key>icon</key>
+					<string>small_c_s.png</string>
+					<key>subtitle</key>
+					<string>10000 words</string>
+					<key>title</key>
+					<string>The Adventure of the Devil's Foot</string>
+				</dict>
+				<dict>
+					<key>file</key>
+					<string>The Adventure of the Dying Detective.html</string>
+					<key>icon</key>
+					<string>small_c_s.png</string>
+					<key>subtitle</key>
+					<string>5800 words</string>
+					<key>title</key>
+					<string>The Adventure of the Dying Detective</string>
+				</dict>
+				<dict>
+					<key>file</key>
+					<string>The Adventure of the Red Circle.html</string>
+					<key>icon</key>
+					<string>small_c_s.png</string>
+					<key>subtitle</key>
+					<string>7300 words</string>
+					<key>title</key>
+					<string>The Adventure of the Red Circle</string>
+				</dict>
+				<dict>
+					<key>file</key>
+					<string>The Adventure of Wisteria Lodge.html</string>
+					<key>icon</key>
+					<string>small_c_s.png</string>
+					<key>subtitle</key>
+					<string>11400 words</string>
+					<key>title</key>
+					<string>The Adventure of Wisteria Lodge</string>
+				</dict>
+				<dict>
+					<key>file</key>
+					<string>His Last Bow.html</string>
+					<key>icon</key>
+					<string>small_c_s.png</string>
+					<key>subtitle</key>
+					<string>6000 words</string>
+					<key>title</key>
+					<string>His Last Bow</string>
+				</dict>
+				<dict>
+					<key>file</key>
+					<string>The Mystery of Sasassa Valley.html</string>
+					<key>icon</key>
+					<string>small_c_s.png</string>
+					<key>subtitle</key>
+					<string>4600 words</string>
+					<key>title</key>
+					<string>The Mystery of Sasassa Valley</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Doyle, Arthur Conan</string>
+		</dict>
+	</array>
+	<key>author</key>
+	<string>8 stories</string>
+</dict>
+</plist>

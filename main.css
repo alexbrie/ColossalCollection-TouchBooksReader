@@ -1,0 +1,38 @@
+@font-face { font-family: 'Droid Sans'; src: url('DroidSans.ttf');  font-weight: normal;}
+@font-face { font-family: 'Droid Sans'; src: url('DroidSans-Bold.ttf');  font-weight: bold;}
+@font-face { font-family: 'Lato'; src: url('Lato-Regular.ttf');  font-weight: normal;}
+@font-face { font-family: 'Lato'; src: url('Lato-Bold.ttf');  font-weight: bold;}
+@font-face { font-family: 'Lato'; src: url('Lato-Italic.ttf');  font-weight: normal; font-style:italic;}
+@font-face { font-family: 'Lato'; src: url('Lato-Medium.ttf');  font-weight: medium;}
+@font-face { font-family: 'Lato'; src: url('Lato-Light.ttf');  font-weight: lighter;}
+body {
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+    color: #444;
+    padding: 0 8%;
+    font-size: 11pt;
+    background-color: none;
+    font-weight: 400;
+}
+
+h1, h2, h3 { text-align: center; }
+h1 {
+    font-size: 300%;
+    font-weight: lighter;
+}
+
+h2 {
+    font-size: 200%;
+    font-weight: medium;
+}
+
+h3 {
+    font-size: 150%;
+    font-weight: 400;
+}
+
+.tbr_reading {
+    background-color : #a00;
+    color: #fff;
+}
