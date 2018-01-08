@@ -1,0 +1,6 @@
+framework module Pods_Colossal {
+  umbrella header "Pods-Colossal-umbrella.h"
+
+  export *
+  module * { export * }
+}

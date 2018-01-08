@@ -91,7 +91,7 @@ class Persistence: NSObject {
             t.column(id, primaryKey: true)
             t.column(name)
         })
-        try! db.run(authors.createIndex([id], unique: false, ifNotExists: true))
+        try! db.run(authors.createIndex(id, unique: false, ifNotExists: true))
     }
     
     func createTableIfNotExistsStories() {
@@ -105,7 +105,7 @@ class Persistence: NSObject {
             t.column(free)
             t.column(word_count)
         })
-        try! db.run(stories.createIndex([id], unique: false, ifNotExists: true))
+        try! db.run(stories.createIndex(id, unique: false, ifNotExists: true))
     }
     
     
